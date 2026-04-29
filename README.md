@@ -1,4 +1,4 @@
-# Lab3
+# EDA
 Summary
 The project is based on Exploratory Data Analysis (EDA) as an important first step in the Machine Learning Pipeline. It provides guidance on how to read data patterns, discover outliers and prepare data sets for robust modeling.
 
